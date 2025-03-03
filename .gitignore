@@ -6,3 +6,4 @@ dist/
 .env
 coverage/
 *.tmp
+.pytest_cache/
